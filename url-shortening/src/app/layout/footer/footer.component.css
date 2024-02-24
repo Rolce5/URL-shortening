@@ -1,0 +1,55 @@
+.footer-wrapper{
+    width: 100%;
+}
+.footer-top{
+    background-image: url('/url-shortening/src/assets/bg-boost-desktop.svg');
+    background-size: cover;
+    /* min-height: 180px; */
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    color: #bfbfbf;
+    font-weight: 700;
+}
+.hi{
+    color: #bfbfbf;
+color : #6c63ff;
+color: #1f2041;
+color: #0a0c18;
+color: #00a3b1;
+color: #3a0ca3;
+
+color: #ff5858
+}
+
+.footer{
+    background-color: #19171c;
+    padding: 60px 40px;
+}
+
+.footer .footer-links .title{
+    font-weight: 700;
+    margin-bottom: 24px !important;
+}
+
+.footer .footer-links .nav-link{
+    color: #bfbfbf;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.footer .footer-links .nav-link:hover{
+    color: #00a3b3;
+}
+
+.footer .footer-links-social {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
